@@ -2,13 +2,8 @@
   "items": [
     {
       "text": "Home",
-      "url": "/HomePage",
+      "url": "https://softcore-erotics.netlify.app/",
       "external": false
-    },
-    {
-      "text": "GitHub",
-      "url": "https://github.com/hankchizljaw/hylia",
-      "external": true
     },
     {
       "text": "Contact ",
