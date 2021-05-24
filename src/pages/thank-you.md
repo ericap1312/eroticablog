@@ -1,6 +1,7 @@
 ---
-title: 'Thank you'
-permalink: '/thank-you/index.html'
+title: Thank you
+permalink: /thank-you/index.html
+metaTitle: Sex stories commission. Thank you note. Thank you page sample. Sexual
+  blogs ideas. Sex blogs comments
 ---
-
-This is your thank you page where if someone fills in your contact form, they will be directed to. Make sure you add a nice message 🙂
+Thank you so much for reaching out. I will be replying to your email soon 🤗
