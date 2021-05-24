@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Softcore Erotics
-metaTitle: Eroticas for women
+metaTitle: Erotic Stories
 metaDesc: Support sexual education. Softcore smuts for safe sex explorations.
   Vanilla sex stories and sexual advices for women. Sexual community supporting
   all sexual preferrences.
