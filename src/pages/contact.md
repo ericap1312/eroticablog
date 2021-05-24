@@ -1,9 +1,9 @@
 ---
-title: 'Contact'
-permalink: '/contact/index.html'
-layout: 'layouts/contact.njk'
+layout: layouts/contact.njk
+title: Contact
+permalink: /contact/index.html
+metaTitle: Commission for sex stories
+metaDesc: Contacts for comments and ideas for sex stories. Commission for
+  anniversary, birthdays, special celebrations for couples.
 ---
-
-You can have a contact page which uses a basic form. The [code with the form fields lives here](https://github.com/hankchizljaw/hylia/blob/master/src/_includes/layouts/contact.njk). 
-
-To delete the contact form for this site, delete this page in the CMS or at `src/pages/contact.md`. You probably will also want to delete `src/pages/thank-you.md`.
+Please feel free to reach out to me for any comments, ideas or commission stories!
