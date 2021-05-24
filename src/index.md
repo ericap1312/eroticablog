@@ -1,12 +1,14 @@
 ---
 layout: home
-title: A simple starter kit for Eleventy
+title: Softcore Erotics
+metaTitle: Eroticas for women
+metaDesc: Support sexual education. Softcore smuts for safe sex explorations.
+  Vanilla sex stories and sexual advices for women. Sexual community supporting
+  all sexual preferrences.
 postsHeading: Latest posts
 archiveButtonText: See all posts
-metaDesc: 'Hylia is a lightweight Eleventy starter kit to help you to create your own blog or personal website.'
-socialImage: ''
+socialImage: ""
 ---
+This blog aims to create a safe community for everyone to be comfortable with their sexual needs. It is important to explore and experiment to find the best lifestyle for yourself. Therefore, all preferences are welcomed here and blog ideas or comments can be tweeted out or discussed on the blog's Discord server.
 
-Hylia is a lightweight [Eleventy](https://11ty.io) starter kit with [Netlify CMS](https://www.netlifycms.org/) pre-configured, so that you can one-click install a progressive, accessible blog in minutes. It also gives you a well organised starting point to extend yourself. It’s by [Andy Bell](https://twitter.com/hankchizljaw) and [friends](https://github.com/aarongustafson/hylia/graphs/contributors).
-
-Get started now by [deploying Hylia to Netlify.](https://app.netlify.com/start/deploy?repository=https://github.com/hankchizljaw/hylia&stack=cms)
+Here is the link to the server: https://discord.gg/9hZ9xRcp2P
