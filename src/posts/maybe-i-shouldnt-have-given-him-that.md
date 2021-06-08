@@ -1,7 +1,8 @@
 ---
 layout: layouts/post.njk
 title: Maybe I shouldn't have given him that
-metaTitle: sex toys. college. public sex. story. sexy story
+metaTitle: Maybe I shouldn't have given him that
+metaDesc: A late-night adventure with some new toys
 date: 2021-06-07T15:39:10.394Z
 tags:
   - Toys
