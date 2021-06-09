@@ -2,6 +2,8 @@
 layout: layouts/post.njk
 title: Why you should go to the movie theater on your first date
 date: 2021-06-07T15:43:09.171Z
+tags:
+  - Public
 ---
 “What is this place?” she wonders to herself.
 
